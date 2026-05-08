@@ -16,6 +16,13 @@ TypeScriptで制作したゲーム
 
 ---
 
+## 使用技術
+- TypeScript
+- Phaser 3
+- Vite
+
+---
+
 ## プレイリンク
 以下のURLからブラウザ上でプレイできます。
 
@@ -103,13 +110,6 @@ https://tanabe-1207.github.io/typescript-game/
 2. 以下を実行 
    npm install npm run dev
 3. 表示されたURLをブラウザで開く
-
----
-
-## 使用技術
-- TypeScript
-- Phaser 3
-- Vite
 
 ---
 
