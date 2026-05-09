@@ -114,7 +114,7 @@ https://tanabe-1207.github.io/typescript-game/
 ---
 
 ## 制作期間
-約2～3週間(個人制作)
+約4～5週間(個人制作)
 
 ---
 
